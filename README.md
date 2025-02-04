@@ -4,7 +4,7 @@
 
 <h5> the purpose of this repository is to understand how to use github and allow for me to keep all my lab work contained within one area. </h5>
 
-goals for the course 
+*goals for the course* 
 <ol>
   <li>learn github basics</li>
   <li>gain a deeper understanding of ai</li>
